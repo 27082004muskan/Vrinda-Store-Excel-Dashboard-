@@ -11,4 +11,4 @@ The Vrinda Store wants to create a annual report of 2022. So that , the owner of
 -Percentage of total order delivered ?
 
 ## Dashboard
-<a href="https://github.com/27082004muskan/Vrinda-Store-Excel-Dashboard-/blob/main/Vrinda-Screenshot.png"></a>
+<a href="https://github.com/27082004muskan/Vrinda-Store-Excel-Dashboard-/blob/main/Vrinda-Screenshot.png">View Dashboard</a>
